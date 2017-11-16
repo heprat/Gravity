@@ -5,7 +5,7 @@ date: 2017-11-16 16:51:01
 categories: ["Manifesto", "Editorial"]
 ---
 
-*This post is available also in the {{ site.baseurl }}{% post_url about %} page.*
+*This post is available also in the [About]({{ site.baseurl }}{% link about/ %}) page.*
 
 
 Particle Physics has become a collaborative effort since many decades.
