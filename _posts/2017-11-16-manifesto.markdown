@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Manifesto"
+author: "The HEP Rat"
 date: 2017-11-16 16:51:01
 categories: ["Manifesto", "Editorial"]
 ---
 
 *This post is available also in the [About]({{ site.baseurl }}{% link /about/ %}) page.*
-
+[Link to a page]({{ site.baseurl }}{% link news/index.html %})
 
 Particle Physics has become a collaborative effort since many decades.
 
