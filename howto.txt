@@ -1,8 +1,8 @@
----
-layout: page
-title : About
-permalink: /about/
----
+#---
+#layout: page
+#title : About
+#permalink: /howto/
+#---
 
 <h2>Gravity</h2>
 <p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
