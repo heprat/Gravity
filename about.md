@@ -27,9 +27,9 @@ Contribute by sending your story to <heprat@cryptolab.net>.
 For your safety, please send your story by encrypting it using the HEPRat public PGP key:
 
 Fingerprint:
-´´´
+```
 FB9E 0DE2 5C76 7F1D AFAE  69F4 0E6C E40C ABE4 5680
-´´´
+```
 
 Full key:
 ```
