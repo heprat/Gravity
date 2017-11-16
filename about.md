@@ -9,15 +9,15 @@ Particle Physics has become a collaborative effort since many decades.
 
 While this has permitted amazing advancements in our understanding of the cosmos, the collaborative spirit has been perverted quickly by the bureaucratic nature of such collaborations, to the detriment of the health of the workers.
 
-The worker is pushed towards fake deadlines, solely built to satisfy arbitrary targes in terms of number of publications and the need of justifying the number of conferences that are organized each and every year.
+The worker is pushed towards **fake deadlines**, solely built to satisfy arbitrary targes in terms of number of publications and the need of justifying the number of conferences that are organized each and every year.
 
-This has a detrimental effects on the health of the workers, that are usually encouraged and sometimes forced to violate welfare laws of several countries by working overnight or during regular vacation time, for a total amount of hours that voids any conquest on the rights of the workers made the last couple centuries.
+This has a detrimental effects on the **health of the workers**, that are usually encouraged and sometimes forced to violate welfare laws of several countries by working overnight or during regular vacation time, for a total amount of hours that voids any conquest on the rights of the workers made the last couple centuries.
 
-Further distress for the worker comes from the corporate-like environment that has been built, that favours abuses of power and deresponsibilization.
+**Further distress** for the worker comes from the corporate-like environment that has been built, that favours abuses of power and deresponsibilization.
 
-While some institutions have taken a media façade of caring about the workers, the real situation is that internal debates on the issue within the big experimental collaborations are discouraged, and public denouncing the issue results in kind invitations to leave the collaborations.
+While some institutions have taken a media *façade* of caring about the workers, the real situation is that internal debates on the issue within the big experimental collaborations are **discouraged**, and public denouncing the issue results in kind invitations to leave the collaborations.
 
-This situation must change.
+**This situation must change.**
 
 This blog is meant to give a voice to all the exploited and abused workers of the HEP community.
 Together with some editorial opinion content, this blog will host -- in total anonimity -- **YOUR** stories of exploitation and distress.
@@ -26,9 +26,14 @@ Contribute by sending your story to <heprat@cryptolab.net>.
 
 For your safety, please send your story by encrypting it using the HEPRat public PGP key:
 
-Fingerprint: ´´´FB9E 0DE2 5C76 7F1D AFAE  69F4 0E6C E40C ABE4 5680´´´
+Fingerprint:
+´´´
+FB9E 0DE2 5C76 7F1D AFAE  69F4 0E6C E40C ABE4 5680
+´´´
 
-Full key: ``` -----BEGIN PGP PUBLIC KEY BLOCK-----
+Full key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFoNsHsBEAC9YWwWZE8fvJlF2Ovw0H2FQqUmtAfbzhs9ZJRb0vhiqTSj3DsV
 bW9feIDd1VkYosJwfGSvabq22B1OV/Vx+V74nUH2Mc9HDtmlMLjuEME7hAk2wGPo
