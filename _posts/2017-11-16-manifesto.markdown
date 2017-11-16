@@ -12,7 +12,7 @@ Particle Physics has become a collaborative effort since many decades.
 
 While this has permitted amazing advancements in our understanding of the cosmos, the collaborative spirit has been perverted quickly by the bureaucratic nature of such collaborations, to the detriment of the health of the workers.
 
-The worker is pushed towards **fake deadlines**, solely built to satisfy arbitrary targes in terms of number of publications and the need of justifying the number of conferences that are organized each and every year.
+The worker is pushed towards **fake deadlines**, solely built to satisfy arbitrary targets in terms of number of publications and the need of justifying the number of conferences that are organized each and every year.
 
 This has a detrimental effects on the **health of the workers**, that are usually encouraged and sometimes forced to violate welfare laws of several countries by working overnight or during regular vacation time, for a total amount of hours that voids any conquest on the rights of the workers made the last couple centuries.
 
