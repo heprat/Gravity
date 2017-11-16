@@ -7,7 +7,6 @@ categories: ["Manifesto", "Editorial"]
 ---
 
 *This post is available also in the [About]({{ site.baseurl }}{% link /about/ %}) page.*
-[Link to a page]({{ site.baseurl }}{% link news/index.html %})
 
 Particle Physics has become a collaborative effort since many decades.
 
