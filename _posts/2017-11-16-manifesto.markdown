@@ -27,7 +27,9 @@ Together with some editorial opinion content, this blog will host -- in total an
 
 Contribute by sending your story to <heprat@cryptolab.net>.
 
-For your safety, please send your story by encrypting it using the HEPRat public PGP key:
+The HEP Rat will delete the correspondence upon processing it. However, for your safety, please do not use your work email address to write to the HEP Rat.
+
+Eventually, if you are really worried, you might consider sending your story after encrypting it using the HEPRat public PGP key:
 
 Fingerprint:
 ```
